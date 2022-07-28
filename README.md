@@ -2,9 +2,11 @@ A Pagination Widget for Flutter.
 
 ## Features
 
-![vw2ch-fskhr.gif](https://upload-images.jianshu.io/upload_images/10317259-4d65162baddbef4a.gif?imageMogr2/auto-orient/strip)
+![vw2ch-fskhr.gif](https://github.com/neechen/dt_pagination/blob/master/normal.gif)
+
 当前页码保持居中：
-![gmteo-wlbnb.gif](https://upload-images.jianshu.io/upload_images/10317259-0494a2983d35347c.gif?imageMogr2/auto-orient/strip)
+
+![gmteo-wlbnb.gif](https://github.com/neechen/dt_pagination/blob/master/alwayscenter.gif)
 
 ## Getting started
 

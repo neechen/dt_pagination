@@ -5,6 +5,7 @@ A Pagination Widget for Flutter.
 ![vw2ch-fskhr.gif](https://github.com/neechen/dt_pagination/blob/master/normal.gif)
 
 当前页码保持居中：
+
 ![gmteo-wlbnb.gif](https://github.com/neechen/dt_pagination/blob/master/alwayscenter.gif)
 
 ## Getting started

@@ -1,7 +1,7 @@
 name: dt_pagination
 description: A Pagination Widget for Flutter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/neechen/dt_pagination
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
